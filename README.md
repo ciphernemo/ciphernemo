@@ -9,7 +9,7 @@
 
 I'm a Software Developer and Systems Support for Penn State University, but this is my personal Git account.
 
-- ![Windows 10 Deployment Scripts](https://github.com/ciphernemo/Complete-Win10-Deploy)
+- ![Windows 10 Deployment Scripts](../../../Complete-Win10-Deploy)
 - ![Terratech Reference Chart](../../../Terratech-Reference-Chart)
 
 <!---
