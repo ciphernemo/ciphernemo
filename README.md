@@ -7,11 +7,11 @@
 
 ## Greetings
 
-I'm a Software Developer and Systems Support for Penn State University, but this is my personal Git account.
+I've been Software Developer and Systems Support, Senior IT Support, and more. This is my personal Git account, not my work account.
 
-- ![Windows 10 Deployment Scripts](../../../Complete-Win10-Deploy)
-- ![Terratech Reference Chart](../../../Terratech-Reference-Chart)
+- ![PortalTime](../../../PortalTime): a portal tracker app for Path of Exile 2.
+- ![IniFile Mini](../../../IniFile-Mini): read and write to ini files in C#.
 
 <!---
-Updated 01/04/2022
+Updated 01/31/2025
 --->
